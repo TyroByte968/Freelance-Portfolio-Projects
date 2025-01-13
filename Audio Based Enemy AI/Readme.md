@@ -5,4 +5,4 @@
 - Light sounds cause the enemy to check out the sound source and wander a bit, and return to start position.
 - Spotting the player leads to a chase sequence.
 
-  <iframe src="https://giphy.com/embed/vR4NrJDZFPmXj9qEv6" width="480" height="240" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vR4NrJDZFPmXj9qEv6">via GIPHY</a></p>
+![download](https://github.com/user-attachments/assets/ce1cffbf-e68f-49a8-8da6-2ed5cbabb46a)
